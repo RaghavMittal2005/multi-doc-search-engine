@@ -33,7 +33,6 @@ embedding-search-engine/
 ├── app.py                    # Streamlit UI (bonus)
 ├── requirements.txt
 ├── README.md
-├── runtime.txt   #env in runtime
 ├── .gitignore
 ```
 
