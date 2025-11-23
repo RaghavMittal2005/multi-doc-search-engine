@@ -42,6 +42,7 @@ embedding-search-engine/
 
 ```bash
 pip install -r requirements.txt
+conda create -p venv python=3.10.19 #environment
 ```
 
 ### 2. Download Dataset
