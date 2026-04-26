@@ -1,4 +1,4 @@
-# Multi-document Embedding Search Engine (Assignment)
+# Multi-document Embedding Search Engine
 
 A production-ready semantic search engine with FAISS indexing, SQLite caching, and FastAPI backend.
 
